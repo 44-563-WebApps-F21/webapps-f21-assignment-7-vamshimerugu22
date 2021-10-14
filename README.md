@@ -5,4 +5,4 @@ Hosted at:  https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-vamshi
  
 Hosted at:    https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-vamshimerugu22/reaction.html
 
-Hosted at:     https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-vamshimerugu22/stack.html
+Hosted at:     
